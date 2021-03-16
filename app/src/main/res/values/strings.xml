@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fileStringsApp</string>
+    <string name="programador">Desarrollador: Alex Siguenza</string>
+    <string name="version_aplicacion">1</string>
+    <string name="finalizar">Finalizar programa</string>
+    <string name="radiosuma">sumar</string>
+    <string name="radioresta">restar</string>
+    <string name="botonoperacion">operar</string>
+</resources>
